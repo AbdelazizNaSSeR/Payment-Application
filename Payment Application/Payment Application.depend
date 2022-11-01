@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1663883032 source:b:\payment application\card.c
+	"card.h"
+
+1663872512 b:\payment application\card.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1663884962 source:b:\payment application\server.c
+	"server.h"
+
+1663884079 source:b:\payment application\terminal.c
+	"terminal.h"
+
+1663868464 b:\payment application\terminal.h
+	"card.h"
+
+1663885740 source:b:\payment application\app.c
+	"app.h"
+
+1663885728 b:\payment application\app.h
+	<stdio.h>
+	"server.h"
+
+1663869696 b:\payment application\server.h
+	"terminal.h"
+
+1664480396 source:b:\c files\payment application\app.c
+	"app.h"
+
+1663885728 b:\c files\payment application\app.h
+	<stdio.h>
+	"server.h"
+
+1663869696 b:\c files\payment application\server.h
+	"terminal.h"
+
+1663868464 b:\c files\payment application\terminal.h
+	"card.h"
+
+1663872512 b:\c files\payment application\card.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1663884962 source:b:\c files\payment application\server.c
+	"server.h"
+
+1663884079 source:b:\c files\payment application\terminal.c
+	"terminal.h"
+
+1664481889 source:b:\c files\payment application\card.c
+	"card.h"
+
+1665151506 source:c:\users\nasser\pictures\payment application\app.c
+	"app.h"
+
+1665148192 c:\users\nasser\pictures\payment application\app.h
+	<stdio.h>
+	"server.h"
+
+1665150782 c:\users\nasser\pictures\payment application\server.h
+	"terminal.h"
+
+1665148192 c:\users\nasser\pictures\payment application\terminal.h
+	"card.h"
+
+1665148192 c:\users\nasser\pictures\payment application\card.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1665148192 source:c:\users\nasser\pictures\payment application\card.c
+	"card.h"
+
+1665152295 source:c:\users\nasser\pictures\payment application\server.c
+	"server.h"
+
+1665148192 source:c:\users\nasser\pictures\payment application\terminal.c
+	"terminal.h"
+
+1665151506 source:b:\project submission (after review)\program code\payment application\app.c
+	"app.h"
+
+1665148192 b:\project submission (after review)\program code\payment application\app.h
+	<stdio.h>
+	"server.h"
+
+1665150782 b:\project submission (after review)\program code\payment application\server.h
+	"terminal.h"
+
+1665148192 b:\project submission (after review)\program code\payment application\terminal.h
+	"card.h"
+
+1665148192 b:\project submission (after review)\program code\payment application\card.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1665148192 source:b:\project submission (after review)\program code\payment application\card.c
+	"card.h"
+
+1665434042 source:b:\project submission (after review)\program code\payment application\terminal.c
+	"terminal.h"
+
+1665152589 source:b:\project submission (after review)\program code\payment application\server.c
+	"server.h"
+
